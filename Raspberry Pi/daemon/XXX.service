@@ -1,0 +1,10 @@
+[Unit]
+Description=deinDiener
+After=multi-user.target
+
+[Service]
+Type=idle
+ExecStart=/home/pi/bin/foobar &
+
+[Install]
+WantedBy=multi-user.target
