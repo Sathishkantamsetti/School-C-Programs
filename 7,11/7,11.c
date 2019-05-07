@@ -1,7 +1,7 @@
 /*
 *A Solution for the 7-Eleven problem
 *Programmed by Samer Alkabbaz
-*All Rights Saved (c)
+*All Rights Reserved (c)
 */
 
 #include <stdio.h>
